@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "fuzzyforest"]
+	path = fuzzyforest
+	url = https://github.com/cran/fuzzyforest
+	shallow = true
+	registered = true
